@@ -5,6 +5,7 @@ A collection of useful and reusable code snippets designed to accelerate develop
 ## HTML
 
 - **[Responsive Images with prefers-color-scheme](./html/responsive-images-with-prefers-color-scheme.md)**
+- **[Configure color schemes on your web page with `<meta name="color-scheme">`](./html/responsive-images-with-prefers-color-scheme.md)**
 
 ## CSS
 
